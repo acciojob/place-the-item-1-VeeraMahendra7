@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+.holder{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.box{
+	height: 50px;
+	width: 50px;
+	background-color: green;
+	color: white;
+}
